@@ -1,0 +1,6 @@
+module HelloWorldApp {
+    interface Hello {
+        attribute string HelloMessage;
+    };
+};
+ 
